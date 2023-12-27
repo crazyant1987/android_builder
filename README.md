@@ -6,5 +6,5 @@
 
 使用方法：
 打开  project-to-build 
-修改1.需要打包的代码地址 例如：https://github.com/crazyant1987/TVBox 
+修改1.网址为自己的源代码仓库地址 例如：https://github.com/crazyant1987/TVBox 
 1.点击横向菜单栏 Actions 2.点击纵向菜单栏 android_builder 3.点击按钮Run workflow 下拉 绿色 Run workflow 等待完成
